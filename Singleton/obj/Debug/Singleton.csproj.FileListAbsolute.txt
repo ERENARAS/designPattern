@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Monster\Desktop\c#\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
