@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\bin\Debug\BetterSingleton.exe.config
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\bin\Debug\BetterSingleton.exe
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\bin\Debug\BetterSingleton.pdb
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\obj\Debug\BetterSingleton.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\obj\Debug\BetterSingleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\obj\Debug\BetterSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\obj\Debug\BetterSingleton.exe
+C:\Users\Monster\Desktop\c#\DesignPatterns\BetterSingleton\obj\Debug\BetterSingleton.pdb
