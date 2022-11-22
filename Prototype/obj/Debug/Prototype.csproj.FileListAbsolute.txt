@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\Monster\Desktop\c#\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
